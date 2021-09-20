@@ -1,4 +1,4 @@
-**Conceptual Model**
+# Conceptual Model Kelompok 7
 
 Anggota:
 
@@ -34,13 +34,13 @@ Seperti yang kita ketahui, virus Covid-19 telah melanda negara kita lebih dari s
 - melakukan survey umkm mengenai hal hal yang berpengaruh dalam bisnisnya.
 - mengolah data hasil survey.
 - memilah data yang didapat yang dapat erpengaruh dalam bisnis user.
-- Menyusun desain web sesuai data yang telah dipilih
-- survey hasil desain untuk mengetahui kemudahan akses dan manfaat yang didapat dari web tersebut
-- setuhan akhir
+- Menyusun desain web sesuai data yang telah dipilih.
+- survey hasil desain untuk mengetahui kemudahan akses dan manfaat yang didapat dari web tersebut.
+- sentuhan akhir.
 
 **7. Hasil yang diharapkan:**
 
-Dengan dibuatnya website ini yang menyediakan fasilitas terperinci mengenai data perkembanganbisnis user, diharapkan user. Dapat memanfaatkan data yang didapat untuk meningkatkan efektivitas bisnis user, sehingga dapat mencegah kesalahan finansal yang dapat menyebabkan kerugian, dan meningkatkan perkembangan bisnis user.
+Dengan dibuatnya website ini yang menyediakan fasilitas terperinci mengenai data perkembangan bisnis user. Diharapkan user dapat memanfaatkan data yang didapat untuk meningkatkan efektivitas bisnis user, sehingga dapat mencegah kesalahan finansal yang dapat menyebabkan kerugian, dan meningkatkan perkembangan bisnis user.
 
 **8. Diagram Desain Model Konseptual:**
 ![Diagram Konsep Model@2x](https://user-images.githubusercontent.com/24853250/134037886-44e1d2c5-48d8-4ac4-a1e5-3cb7c67a0633.png)
