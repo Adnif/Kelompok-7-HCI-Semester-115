@@ -2,9 +2,9 @@
 
 Anggota:
 
-1. Abdullah Dzaki
-2. Alfitra Fajri
-3. Ahmad Bani
+1. Abdullah Dzaki (1313620010)
+2. Alfitra Fajri (1313620027)
+3. Ahmad Bani Faqih (1313620034)
 
 **1. Latar Belakang:**
 
