@@ -3,7 +3,7 @@
 Anggota:
 
 1. Abdullah Dzaki (1313620010)
-2. Alfitra Fajri (1313620027)
+2. Alfitra Fadjri (1313620027)
 3. Ahmad Bani Faqih (1313620034)
 
 **1. Latar Belakang:**
@@ -40,9 +40,7 @@ Seperti yang kita ketahui, virus Covid-19 telah melanda negara kita lebih dari s
 
 **7. Hasil yang diharapkan:**
 
-Dengan dibuatnya website ini yang menyediakan fasilitas terperinci mengenai data perkembanganbisnis user, diharapkan user
-
-Dapat memanfaatkan data yang didapat untuk meningkatkan efektivitas bisnis user, sehingga dapat mencegah kesalahan finansal yang dapat menyebabkan kerugian, dan meningkatkan perkembangan bisnis user.
+Dengan dibuatnya website ini yang menyediakan fasilitas terperinci mengenai data perkembanganbisnis user, diharapkan user. Dapat memanfaatkan data yang didapat untuk meningkatkan efektivitas bisnis user, sehingga dapat mencegah kesalahan finansal yang dapat menyebabkan kerugian, dan meningkatkan perkembangan bisnis user.
 
 **8. Diagram Desain Model Konseptual:**
 ![Diagram Konsep Model@2x](https://user-images.githubusercontent.com/24853250/134037886-44e1d2c5-48d8-4ac4-a1e5-3cb7c67a0633.png)
